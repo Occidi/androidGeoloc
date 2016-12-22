@@ -1,5 +1,5 @@
-# androidGeoloc
-Geoloc &amp; Google maps
+# Geoloc &amp; Google maps
+
 
 Les Activity/Res se trouvent ici : https://github.com/Occidi/androidGeoloc/tree/master/app/src/main
 
